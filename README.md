@@ -14,7 +14,7 @@ O objetivo é explorar como os resultados do TF-IDF podem ser interpretados e ut
 ## 	:point_down: Download dos dados do Kaggle
 
 ```
-- Acessar link: https://www.kaggle.com/datasets/beridzeg45/steam-reviews
+- Acessar link: https://www.kaggle.com/datasets/kmldas/apple-iphone-se-reviews-ratings
 
 OBS: O script do projeto ('script.ipynb') já está ligado com a fonte de dados 'reviews.csv', pois foi feito o upload desses dados no Github.
 
