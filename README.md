@@ -16,7 +16,7 @@ O objetivo é explorar como os resultados do TF-IDF podem ser interpretados e ut
 ```
 - Acessar link: https://www.kaggle.com/datasets/kmldas/apple-iphone-se-reviews-ratings
 
-OBS: O script do projeto ('script.ipynb') já está ligado com a fonte de dados 'reviews.csv', pois foi feito o upload desses dados no Github.
+OBS: O script do projeto ('script.ipynb') já está ligado com a fonte de dados 'iphone_se.csv', pois foi feito o upload desses dados no Github.
 
 ```
 
