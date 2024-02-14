@@ -7,16 +7,16 @@ O 'Term Frequency — Inverse Document Frequency' tem o objetivo de calcular, es
 
 Esses pesos podem ser utilizados posteriormente para: análise de sentimento, modelos de machine learning como 'Naive-Bayes', análises de similaridade, análise de clusters como K-means, entre outras aplicações.
 
-Este projeto visa o estudo sobre o método TF-IDF e suas aplicações, utilizando uma base de dados contendo avaliações do jogo "Call of Duty". 
-O objetivo é explorar como os resultados do TF-IDF podem ser interpretados e utilizados para análises mais detalhadas e insights significativos sobre as percepções e opiniões dos jogadores em relação ao jogo.
+Este projeto visa o estudo sobre o método TF-IDF e suas aplicações, utilizando uma base de dados contendo avaliações do iPhone SE. 
+O objetivo é explorar como os resultados do TF-IDF podem ser interpretados e utilizados para análises mais detalhadas e insights significativos sobre as percepções e opiniões dos jogadores em relação ao celular.
 
 
 ## 	:point_down: Download dos dados do Kaggle
 
 ```
-- Acessar link: https://www.kaggle.com/datasets/beridzeg45/steam-reviews
+- Acessar link: https://www.kaggle.com/datasets/kmldas/apple-iphone-se-reviews-ratings
 
-OBS: O script do projeto ('script.ipynb') já está ligado com a fonte de dados 'reviews.csv', pois foi feito o upload desses dados no Github.
+OBS: O script do projeto ('script.ipynb') já está ligado com a fonte de dados 'iphone_se.csv', pois foi feito o upload desses dados no Github.
 
 ```
 
